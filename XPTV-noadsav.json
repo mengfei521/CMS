@@ -1,7 +1,7 @@
 {
     "sites": [
         { 
-            "name": "低端|VOD", 
+            "name": "低端|VOD-推荐", 
             "type": 3, 
             "api": "csp_Ddrk" 
         },
